@@ -1,0 +1,561 @@
+year,barrier,value,barrier_group,barrier_display
+2010,ngo_register_burden,56,Barriers to entry,NGO registration burdensome
+2011,ngo_register_burden,56,Barriers to entry,NGO registration burdensome
+2012,ngo_register_burden,56,Barriers to entry,NGO registration burdensome
+2013,ngo_register_burden,56,Barriers to entry,NGO registration burdensome
+2014,ngo_register_burden,56,Barriers to entry,NGO registration burdensome
+2015,ngo_register_burden,56,Barriers to entry,NGO registration burdensome
+2009,ngo_register_burden,54,Barriers to entry,NGO registration burdensome
+2010,ngo_register_appeal,54,Barriers to entry,"NGO registration
+appeal not allowed"
+2011,ngo_register_appeal,54,Barriers to entry,"NGO registration
+appeal not allowed"
+2012,ngo_register_appeal,54,Barriers to entry,"NGO registration
+appeal not allowed"
+2013,ngo_register_appeal,54,Barriers to entry,"NGO registration
+appeal not allowed"
+2014,ngo_register_appeal,54,Barriers to entry,"NGO registration
+appeal not allowed"
+2015,ngo_register_appeal,54,Barriers to entry,"NGO registration
+appeal not allowed"
+2009,ngo_register_appeal,53,Barriers to entry,"NGO registration
+appeal not allowed"
+2008,ngo_register_burden,50,Barriers to entry,NGO registration burdensome
+2008,ngo_register_appeal,50,Barriers to entry,"NGO registration
+appeal not allowed"
+2007,ngo_register_appeal,48,Barriers to entry,"NGO registration
+appeal not allowed"
+2007,ngo_register_burden,46,Barriers to entry,NGO registration burdensome
+2006,ngo_register_appeal,46,Barriers to entry,"NGO registration
+appeal not allowed"
+2006,ngo_register_burden,45,Barriers to entry,NGO registration burdensome
+2012,ngo_barrier_foreign_funds,44,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2013,ngo_barrier_foreign_funds,44,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2014,ngo_barrier_foreign_funds,44,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2015,ngo_barrier_foreign_funds,44,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2005,ngo_register_burden,43,Barriers to entry,NGO registration burdensome
+2010,ngo_barrier_foreign_funds,43,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2011,ngo_barrier_foreign_funds,43,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2005,ngo_register_appeal,42,Barriers to entry,"NGO registration
+appeal not allowed"
+2009,ngo_barrier_foreign_funds,41,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2004,ngo_register_burden,40,Barriers to entry,NGO registration burdensome
+2004,ngo_register_appeal,40,Barriers to entry,"NGO registration
+appeal not allowed"
+2003,ngo_register_burden,38,Barriers to entry,NGO registration burdensome
+2008,ngo_barrier_foreign_funds,38,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2003,ngo_register_appeal,37,Barriers to entry,"NGO registration
+appeal not allowed"
+2007,ngo_barrier_foreign_funds,36,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2002,ngo_register_burden,35,Barriers to entry,NGO registration burdensome
+2002,ngo_register_appeal,35,Barriers to entry,"NGO registration
+appeal not allowed"
+2006,ngo_barrier_foreign_funds,35,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2001,ngo_register_burden,33,Barriers to entry,NGO registration burdensome
+2001,ngo_register_appeal,32,Barriers to entry,"NGO registration
+appeal not allowed"
+2005,ngo_barrier_foreign_funds,32,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2011,ngo_foreign_fund_approval,31,Barriers to funding,"Prior approval required
+for foreign funds"
+2012,ngo_foreign_fund_approval,31,Barriers to funding,"Prior approval required
+for foreign funds"
+2013,ngo_foreign_fund_approval,31,Barriers to funding,"Prior approval required
+for foreign funds"
+2014,ngo_foreign_fund_approval,31,Barriers to funding,"Prior approval required
+for foreign funds"
+2015,ngo_foreign_fund_approval,31,Barriers to funding,"Prior approval required
+for foreign funds"
+2000,ngo_register_burden,30,Barriers to entry,NGO registration burdensome
+2010,ngo_foreign_fund_approval,30,Barriers to funding,"Prior approval required
+for foreign funds"
+1999,ngo_register_burden,29,Barriers to entry,NGO registration burdensome
+2004,ngo_barrier_foreign_funds,29,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2009,ngo_foreign_fund_approval,29,Barriers to funding,"Prior approval required
+for foreign funds"
+2000,ngo_register_appeal,28,Barriers to entry,"NGO registration
+appeal not allowed"
+1997,ngo_register_burden,27,Barriers to entry,NGO registration burdensome
+1998,ngo_register_burden,27,Barriers to entry,NGO registration burdensome
+1998,ngo_register_appeal,27,Barriers to entry,"NGO registration
+appeal not allowed"
+1999,ngo_register_appeal,27,Barriers to entry,"NGO registration
+appeal not allowed"
+1996,ngo_register_burden,26,Barriers to entry,NGO registration burdensome
+1997,ngo_register_appeal,26,Barriers to entry,"NGO registration
+appeal not allowed"
+2003,ngo_barrier_foreign_funds,26,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2008,ngo_foreign_fund_approval,26,Barriers to funding,"Prior approval required
+for foreign funds"
+1991,ngo_register_burden,24,Barriers to entry,NGO registration burdensome
+1992,ngo_register_burden,24,Barriers to entry,NGO registration burdensome
+1993,ngo_register_burden,24,Barriers to entry,NGO registration burdensome
+1994,ngo_register_burden,24,Barriers to entry,NGO registration burdensome
+1995,ngo_register_burden,24,Barriers to entry,NGO registration burdensome
+1995,ngo_register_appeal,24,Barriers to entry,"NGO registration
+appeal not allowed"
+1996,ngo_register_appeal,24,Barriers to entry,"NGO registration
+appeal not allowed"
+2002,ngo_barrier_foreign_funds,24,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2006,ngo_foreign_fund_approval,24,Barriers to funding,"Prior approval required
+for foreign funds"
+2007,ngo_foreign_fund_approval,24,Barriers to funding,"Prior approval required
+for foreign funds"
+1990,ngo_register_burden,23,Barriers to entry,NGO registration burdensome
+1994,ngo_register_appeal,23,Barriers to entry,"NGO registration
+appeal not allowed"
+1992,ngo_register_appeal,22,Barriers to entry,"NGO registration
+appeal not allowed"
+1993,ngo_register_appeal,22,Barriers to entry,"NGO registration
+appeal not allowed"
+2012,ngo_politics_foreign_fund,22,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2013,ngo_politics_foreign_fund,22,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2014,ngo_politics_foreign_fund,22,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2015,ngo_politics_foreign_fund,22,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2001,ngo_barrier_foreign_funds,21,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2005,ngo_foreign_fund_approval,21,Barriers to funding,"Prior approval required
+for foreign funds"
+2011,ngo_politics_foreign_fund,21,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1990,ngo_register_appeal,20,Barriers to entry,"NGO registration
+appeal not allowed"
+1991,ngo_register_appeal,20,Barriers to entry,"NGO registration
+appeal not allowed"
+2004,ngo_foreign_fund_approval,20,Barriers to funding,"Prior approval required
+for foreign funds"
+2009,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2010,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2011,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2012,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2013,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2014,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2015,ngo_politics,20,Barriers to advocacy,NGOs restricted from politics
+2010,ngo_politics_foreign_fund,20,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2003,ngo_foreign_fund_approval,19,Barriers to funding,"Prior approval required
+for foreign funds"
+1989,ngo_register_burden,18,Barriers to entry,NGO registration burdensome
+1989,ngo_register_appeal,18,Barriers to entry,"NGO registration
+appeal not allowed"
+1999,ngo_barrier_foreign_funds,18,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2000,ngo_barrier_foreign_funds,18,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2002,ngo_foreign_fund_approval,17,Barriers to funding,"Prior approval required
+for foreign funds"
+2011,ngo_foreign_fund_restrict,17,Barriers to funding,Foreign funds restricted
+2012,ngo_foreign_fund_restrict,17,Barriers to funding,Foreign funds restricted
+2013,ngo_foreign_fund_restrict,17,Barriers to funding,Foreign funds restricted
+2014,ngo_foreign_fund_restrict,17,Barriers to funding,Foreign funds restricted
+2015,ngo_foreign_fund_restrict,17,Barriers to funding,Foreign funds restricted
+2008,ngo_politics,17,Barriers to advocacy,NGOs restricted from politics
+2009,ngo_politics_foreign_fund,17,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1985,ngo_register_appeal,16,Barriers to entry,"NGO registration
+appeal not allowed"
+1986,ngo_register_appeal,16,Barriers to entry,"NGO registration
+appeal not allowed"
+1987,ngo_register_appeal,16,Barriers to entry,"NGO registration
+appeal not allowed"
+1988,ngo_register_appeal,16,Barriers to entry,"NGO registration
+appeal not allowed"
+1998,ngo_barrier_foreign_funds,16,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2001,ngo_foreign_fund_approval,16,Barriers to funding,"Prior approval required
+for foreign funds"
+2010,ngo_foreign_fund_restrict,16,Barriers to funding,Foreign funds restricted
+2007,ngo_politics,16,Barriers to advocacy,NGOs restricted from politics
+2008,ngo_politics_foreign_fund,16,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1981,ngo_register_appeal,15,Barriers to entry,"NGO registration
+appeal not allowed"
+1982,ngo_register_appeal,15,Barriers to entry,"NGO registration
+appeal not allowed"
+1983,ngo_register_appeal,15,Barriers to entry,"NGO registration
+appeal not allowed"
+1984,ngo_register_appeal,15,Barriers to entry,"NGO registration
+appeal not allowed"
+2000,ngo_foreign_fund_approval,15,Barriers to funding,"Prior approval required
+for foreign funds"
+2009,ngo_foreign_fund_restrict,15,Barriers to funding,Foreign funds restricted
+2005,ngo_politics,15,Barriers to advocacy,NGOs restricted from politics
+2006,ngo_politics,15,Barriers to advocacy,NGOs restricted from politics
+2005,ngo_politics_foreign_fund,15,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2006,ngo_politics_foreign_fund,15,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2007,ngo_politics_foreign_fund,15,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1996,ngo_barrier_foreign_funds,14,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1997,ngo_barrier_foreign_funds,14,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1998,ngo_foreign_fund_approval,14,Barriers to funding,"Prior approval required
+for foreign funds"
+1999,ngo_foreign_fund_approval,14,Barriers to funding,"Prior approval required
+for foreign funds"
+2008,ngo_foreign_fund_restrict,14,Barriers to funding,Foreign funds restricted
+2004,ngo_politics,14,Barriers to advocacy,NGOs restricted from politics
+2003,ngo_politics_foreign_fund,14,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2004,ngo_politics_foreign_fund,14,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1985,ngo_register_burden,13,Barriers to entry,NGO registration burdensome
+1986,ngo_register_burden,13,Barriers to entry,NGO registration burdensome
+1987,ngo_register_burden,13,Barriers to entry,NGO registration burdensome
+1988,ngo_register_burden,13,Barriers to entry,NGO registration burdensome
+1990,ngo_barrier_foreign_funds,13,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1991,ngo_barrier_foreign_funds,13,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1992,ngo_barrier_foreign_funds,13,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1993,ngo_barrier_foreign_funds,13,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1994,ngo_barrier_foreign_funds,13,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1995,ngo_barrier_foreign_funds,13,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2002,ngo_politics,13,Barriers to advocacy,NGOs restricted from politics
+2003,ngo_politics,13,Barriers to advocacy,NGOs restricted from politics
+2002,ngo_politics_foreign_fund,13,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1984,ngo_register_burden,12,Barriers to entry,NGO registration burdensome
+1992,ngo_foreign_fund_approval,12,Barriers to funding,"Prior approval required
+for foreign funds"
+1993,ngo_foreign_fund_approval,12,Barriers to funding,"Prior approval required
+for foreign funds"
+1994,ngo_foreign_fund_approval,12,Barriers to funding,"Prior approval required
+for foreign funds"
+1995,ngo_foreign_fund_approval,12,Barriers to funding,"Prior approval required
+for foreign funds"
+1996,ngo_foreign_fund_approval,12,Barriers to funding,"Prior approval required
+for foreign funds"
+1997,ngo_foreign_fund_approval,12,Barriers to funding,"Prior approval required
+for foreign funds"
+2007,ngo_foreign_fund_restrict,12,Barriers to funding,Foreign funds restricted
+2000,ngo_politics,12,Barriers to advocacy,NGOs restricted from politics
+2001,ngo_politics,12,Barriers to advocacy,NGOs restricted from politics
+2000,ngo_politics_foreign_fund,12,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2001,ngo_politics_foreign_fund,12,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1981,ngo_register_burden,11,Barriers to entry,NGO registration burdensome
+1982,ngo_register_burden,11,Barriers to entry,NGO registration burdensome
+1983,ngo_register_burden,11,Barriers to entry,NGO registration burdensome
+1990,ngo_foreign_fund_approval,11,Barriers to funding,"Prior approval required
+for foreign funds"
+1991,ngo_foreign_fund_approval,11,Barriers to funding,"Prior approval required
+for foreign funds"
+2006,ngo_foreign_fund_restrict,11,Barriers to funding,Foreign funds restricted
+1999,ngo_politics,11,Barriers to advocacy,NGOs restricted from politics
+1998,ngo_politics_foreign_fund,11,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1999,ngo_politics_foreign_fund,11,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1989,ngo_barrier_foreign_funds,10,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+2005,ngo_foreign_fund_restrict,10,Barriers to funding,Foreign funds restricted
+1985,ngo_barrier_foreign_funds,9,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1986,ngo_barrier_foreign_funds,9,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1987,ngo_barrier_foreign_funds,9,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1988,ngo_barrier_foreign_funds,9,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1989,ngo_foreign_fund_approval,9,Barriers to funding,"Prior approval required
+for foreign funds"
+2009,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2010,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2011,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2012,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2013,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2014,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2015,ngo_foreign_fund_channel,9,Barriers to funding,"Foreign funds channeled
+through government"
+2004,ngo_foreign_fund_restrict,9,Barriers to funding,Foreign funds restricted
+2011,ngo_type_foreign_fund_prohibit,9,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2012,ngo_type_foreign_fund_prohibit,9,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2013,ngo_type_foreign_fund_prohibit,9,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2014,ngo_type_foreign_fund_prohibit,9,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2015,ngo_type_foreign_fund_prohibit,9,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1996,ngo_politics,9,Barriers to advocacy,NGOs restricted from politics
+1997,ngo_politics,9,Barriers to advocacy,NGOs restricted from politics
+1998,ngo_politics,9,Barriers to advocacy,NGOs restricted from politics
+1996,ngo_politics_foreign_fund,9,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1997,ngo_politics_foreign_fund,9,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1984,ngo_barrier_foreign_funds,8,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1982,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+1983,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+1984,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+1985,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+1986,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+1987,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+1988,ngo_foreign_fund_approval,8,Barriers to funding,"Prior approval required
+for foreign funds"
+2010,ngo_type_foreign_fund_prohibit,8,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1991,ngo_politics,8,Barriers to advocacy,NGOs restricted from politics
+1992,ngo_politics,8,Barriers to advocacy,NGOs restricted from politics
+1993,ngo_politics,8,Barriers to advocacy,NGOs restricted from politics
+1994,ngo_politics,8,Barriers to advocacy,NGOs restricted from politics
+1995,ngo_politics,8,Barriers to advocacy,NGOs restricted from politics
+1992,ngo_politics_foreign_fund,8,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1993,ngo_politics_foreign_fund,8,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1994,ngo_politics_foreign_fund,8,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1995,ngo_politics_foreign_fund,8,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1981,ngo_barrier_foreign_funds,7,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1982,ngo_barrier_foreign_funds,7,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1983,ngo_barrier_foreign_funds,7,Barriers to entry,"Registration barriers different
+if foreign funds involved"
+1981,ngo_foreign_fund_approval,7,Barriers to funding,"Prior approval required
+for foreign funds"
+2002,ngo_foreign_fund_restrict,7,Barriers to funding,Foreign funds restricted
+2003,ngo_foreign_fund_restrict,7,Barriers to funding,Foreign funds restricted
+2009,ngo_type_foreign_fund_prohibit,7,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1990,ngo_politics,7,Barriers to advocacy,NGOs restricted from politics
+1990,ngo_politics_foreign_fund,7,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1991,ngo_politics_foreign_fund,7,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2001,ngo_foreign_fund_restrict,6,Barriers to funding,Foreign funds restricted
+2003,ngo_type_foreign_fund_prohibit,6,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2004,ngo_type_foreign_fund_prohibit,6,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2005,ngo_type_foreign_fund_prohibit,6,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2006,ngo_type_foreign_fund_prohibit,6,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2007,ngo_type_foreign_fund_prohibit,6,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2008,ngo_type_foreign_fund_prohibit,6,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1989,ngo_politics,6,Barriers to advocacy,NGOs restricted from politics
+1989,ngo_politics_foreign_fund,6,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2008,ngo_foreign_fund_channel,5,Barriers to funding,"Foreign funds channeled
+through government"
+2000,ngo_foreign_fund_restrict,5,Barriers to funding,Foreign funds restricted
+2000,ngo_type_foreign_fund_prohibit,5,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2001,ngo_type_foreign_fund_prohibit,5,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+2002,ngo_type_foreign_fund_prohibit,5,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1981,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1982,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1983,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1984,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1985,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1986,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1987,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+1988,ngo_politics_foreign_fund,5,Barriers to advocacy,"Political barriers different
+if foreign funds involved"
+2007,ngo_foreign_fund_channel,4,Barriers to funding,"Foreign funds channeled
+through government"
+1999,ngo_foreign_fund_restrict,4,Barriers to funding,Foreign funds restricted
+1998,ngo_type_foreign_fund_prohibit,4,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1999,ngo_type_foreign_fund_prohibit,4,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1981,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1982,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1983,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1984,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1985,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1986,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1987,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+1988,ngo_politics,4,Barriers to advocacy,NGOs restricted from politics
+2005,ngo_foreign_fund_channel,3,Barriers to funding,"Foreign funds channeled
+through government"
+2006,ngo_foreign_fund_channel,3,Barriers to funding,"Foreign funds channeled
+through government"
+1998,ngo_foreign_fund_restrict,3,Barriers to funding,Foreign funds restricted
+2011,ngo_foreign_fund_prohibit,3,Barriers to funding,Foreign funds prohibited
+2012,ngo_foreign_fund_prohibit,3,Barriers to funding,Foreign funds prohibited
+2013,ngo_foreign_fund_prohibit,3,Barriers to funding,Foreign funds prohibited
+2014,ngo_foreign_fund_prohibit,3,Barriers to funding,Foreign funds prohibited
+2015,ngo_foreign_fund_prohibit,3,Barriers to funding,Foreign funds prohibited
+1996,ngo_type_foreign_fund_prohibit,3,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1997,ngo_type_foreign_fund_prohibit,3,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1989,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1990,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1991,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1992,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1993,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1994,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1995,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1996,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1997,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1998,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1999,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+2000,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+2001,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+2002,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+2003,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+2004,ngo_foreign_fund_channel,2,Barriers to funding,"Foreign funds channeled
+through government"
+1996,ngo_foreign_fund_restrict,2,Barriers to funding,Foreign funds restricted
+1997,ngo_foreign_fund_restrict,2,Barriers to funding,Foreign funds restricted
+2005,ngo_foreign_fund_prohibit,2,Barriers to funding,Foreign funds prohibited
+2006,ngo_foreign_fund_prohibit,2,Barriers to funding,Foreign funds prohibited
+2007,ngo_foreign_fund_prohibit,2,Barriers to funding,Foreign funds prohibited
+2008,ngo_foreign_fund_prohibit,2,Barriers to funding,Foreign funds prohibited
+2009,ngo_foreign_fund_prohibit,2,Barriers to funding,Foreign funds prohibited
+2010,ngo_foreign_fund_prohibit,2,Barriers to funding,Foreign funds prohibited
+1981,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1982,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1983,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1984,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1985,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1986,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1987,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1988,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1989,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1990,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1991,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1992,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1993,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1994,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1995,ngo_type_foreign_fund_prohibit,2,Barriers to funding,"Foreign funds prohibited
+for some types of NGOs"
+1981,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1982,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1983,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1984,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1985,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1986,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1987,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1988,ngo_foreign_fund_channel,1,Barriers to funding,"Foreign funds channeled
+through government"
+1981,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1982,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1983,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1984,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1985,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1986,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1987,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1988,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1989,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1990,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1991,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1992,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1993,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1994,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1995,ngo_foreign_fund_restrict,1,Barriers to funding,Foreign funds restricted
+1981,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1982,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1983,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1984,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1985,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1986,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1987,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1988,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1989,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1990,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1991,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1992,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1993,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1994,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1995,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1996,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1997,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1998,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+1999,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+2000,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+2001,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+2002,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+2003,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
+2004,ngo_foreign_fund_prohibit,1,Barriers to funding,Foreign funds prohibited
